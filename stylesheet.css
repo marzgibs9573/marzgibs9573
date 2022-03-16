@@ -1,0 +1,19 @@
+body {
+   text-align: center; 
+}
+
+img {
+    height: 300px;
+}
+
+.center {
+  margin-left: auto;
+  margin-right: auto;
+  vertical-align: middle;
+  text-align: center;
+  
+}
+
+td {
+    width: 300px;
+}
