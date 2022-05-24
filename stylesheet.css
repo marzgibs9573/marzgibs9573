@@ -19,6 +19,10 @@ img {
   text-align: center;
   
 }
+.borderedtable {
+  border: 5px solid black;
+  border-collapse: collapse;
+}
 
 td {
     width: 300px;
